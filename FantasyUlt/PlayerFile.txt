@@ -1,0 +1,3 @@
+1,Raiden,170,24,100,0,0
+2,3,Basic Health Potion,10,20
+2,1,Dragon King's Helmet,20,50
